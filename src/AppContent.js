@@ -6,7 +6,6 @@ export default class AppComponent extends Component {
       <p>
         Здесь будет контент!
         <br />
-        <button className="btn btn-primary" href="#" style={{margin: 5}}>Кнопка</button>
       </p>
     )
   }
